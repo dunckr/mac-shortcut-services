@@ -6,7 +6,7 @@ Services to open and resize windows.
 
 ### [Open Chrome](/services/open_chrome.workflow/Contents)
 
-![](https://raw.githubusercontent.com/dunckr/mac-shortcut-services/master/assets/open-chrome.gif)
+![](https://raw.githubusercontent.com/dunckr/mac-shortcut-services/master/assets/open_chrome.gif)
 
 ## Why?
 
